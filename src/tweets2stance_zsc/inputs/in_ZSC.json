@@ -1,0 +1,41 @@
+{
+  "begin": {
+    "GB19": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "CA19": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "AB19": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "AU19": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "SK20": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "BC20": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "CA21": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "NS21": {
+      "models": "all",
+      "index_begin_from": 0
+    },
+    "NFL21": {
+      "models": "all",
+      "index_begin_from": 0
+    }
+  },
+  "restart": {}
+}
